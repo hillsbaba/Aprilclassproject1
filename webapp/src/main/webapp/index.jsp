@@ -1,3 +1,3 @@
-<h1> Welcome to Hillstech IT World of Devops</h1>
-<h2> Come and learn Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck with your Devops Training.Thankyou</h2>
+<h1> Welcome to Dorchills Interiors</h1>
+<h2> Come for your quality interiors of all kinds</h2>
+<h2> Our prices are affordable.Thankyou</h2>
